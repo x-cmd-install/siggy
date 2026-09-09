@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.15.0"
   latestRelease: "v1.15.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:26:35Z
+  collectedAt: 2026-09-09T18:29:52Z
 timeline:
   created: 2026-02-27
   lastCommit: 2026-09-05
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 174
   watcher: 3
-  fork: 14
+  fork: 15
   release: 44
   contributor: 9
   pullRequest: 478
@@ -35,7 +35,7 @@ recent:
     openPR: 3
     closedIssue: 4
     openIssue: 4
-    commit: 19
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 4
@@ -43,7 +43,7 @@ recent:
     openPR: 3
     closedIssue: 6
     openIssue: 4
-    commit: 41
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 11
@@ -51,7 +51,7 @@ recent:
     openPR: 3
     closedIssue: 22
     openIssue: 12
-    commit: 148
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 18
@@ -59,7 +59,7 @@ recent:
     openPR: 3
     closedIssue: 111
     openIssue: 13
-    commit: 315
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 44
@@ -67,7 +67,7 @@ recent:
     openPR: 3
     closedIssue: 217
     openIssue: 13
-    commit: 570
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 44
@@ -85,7 +85,7 @@ total:
   commit: 588
 ---
 path: /home/runner/.x-repo/github.com/johnsideserf/siggy
-collectedAt: 2026-09-09T03:26:37Z
+collectedAt: 2026-09-09T18:29:54Z
 loc:
   Rust:
     code: 42681

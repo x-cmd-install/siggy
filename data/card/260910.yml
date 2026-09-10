@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.15.0"
   latestRelease: "v1.15.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T15:57:28Z
+  collectedAt: 2026-09-10T21:17:09Z
 timeline:
   created: 2026-02-27
   lastCommit: 2026-09-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 
 popularity:
-  star: 174
+  star: 175
   watcher: 3
   fork: 15
   release: 44
@@ -85,7 +85,7 @@ total:
   commit: 588
 ---
 path: /home/runner/.x-repo/github.com/johnsideserf/siggy
-collectedAt: 2026-09-10T15:57:30Z
+collectedAt: 2026-09-10T21:17:10Z
 loc:
   Rust:
     code: 42681

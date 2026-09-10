@@ -4,7 +4,7 @@
 
 Terminal-based Signal messenger client with vim keybindings
 
-![siggy](https://repo.x-cmd.io/siggy.svg)
+![siggy](https://repo.x-cmd.io/siggy.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,15 @@ x install siggy
 - **最新版本**: `v1.15.0` (2026-09-02)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-09-02T21:18:46Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [siggy-v1.15.0-aarch64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [siggy-v1.15.0-x86_64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [siggy-v1.15.0-x86_64-pc-windows-msvc.zip](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-pc-windows-msvc.zip) | 4.5 MiB | `native/win/x64` |
+| [siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz) | 6.5 MiB | `native/linux/x64/glibc` |
 
 ## 流行度
 
@@ -62,4 +70,4 @@ siggy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:25:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:57:34Z._

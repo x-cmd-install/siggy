@@ -23,7 +23,15 @@ x install siggy
 - **Latest**: `v1.15.0` (2026-09-02)
 - **Last commit**: 2026-09-05
 - **Assets in release**: 4
-- **Published**: 2026-09-02T21:18:46Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [siggy-v1.15.0-aarch64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [siggy-v1.15.0-x86_64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [siggy-v1.15.0-x86_64-pc-windows-msvc.zip](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-pc-windows-msvc.zip) | 4.5 MiB | `native/win/x64` |
+| [siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz) | 6.5 MiB | `native/linux/x64/glibc` |
 
 ## Popularity
 
@@ -58,8 +66,8 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `siggy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/siggy.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/siggy.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:25:22Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:34Z._

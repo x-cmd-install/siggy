@@ -12,6 +12,18 @@ Terminal-based Signal messenger client with vim keybindings
 x install siggy
 ```
 
+## Code insight
+
+Total: **43,890** lines of code across **115** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 42,681 | 2,546 | 4,000 | 104 |
+| Css | 643 | 106 | 125 | 1 |
+| Toml | 171 | 66 | 28 | 5 |
+| Sh | 166 | 49 | 31 | 3 |
+| JavaScript | 125 | 16 | 14 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/johnsideserf/siggy>
@@ -24,18 +36,9 @@ x install siggy
 - **Last commit**: 2026-09-05
 - **Assets in release**: 4
 
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [siggy-v1.15.0-aarch64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [siggy-v1.15.0-x86_64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
-| [siggy-v1.15.0-x86_64-pc-windows-msvc.zip](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-pc-windows-msvc.zip) | 4.5 MiB | `native/win/x64` |
-| [siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz) | 6.5 MiB | `native/linux/x64/glibc` |
-
 ## Popularity
 
-- **Stars**: 174 · **Forks**: 15 · **Open issues**: 230 · **Contributors**: 9
+- **Stars**: 175 · **Forks**: 15 · **Open issues**: 230 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -46,20 +49,20 @@ x install siggy
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 2 | 18 | 3 | 4 | 4 | 19 |
+| last60d | 2026-07-12 | 4 | 41 | 3 | 6 | 4 | 41 |
 | 90d | 2026-06-12 | 10 | 148 | 3 | 22 | 12 | 148 |
+| last180d | 2026-03-14 | 17 | 311 | 3 | 104 | 13 | 315 |
 | 360d | 2025-09-15 | 44 | 453 | 3 | 217 | 13 | 570 |
+| last720d | 2024-09-20 | 44 | 453 | 3 | 217 | 13 | 588 |
 
-## Code size
+## Release assets
 
-Total: **43,890** lines of code across **115** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 42,681 | 2,546 | 4,000 | 104 |
-| Css | 643 | 106 | 125 | 1 |
-| Toml | 171 | 66 | 28 | 5 |
-| Sh | 166 | 49 | 31 | 3 |
-| JavaScript | 125 | 16 | 14 | 2 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [siggy-v1.15.0-aarch64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [siggy-v1.15.0-x86_64-apple-darwin.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [siggy-v1.15.0-x86_64-pc-windows-msvc.zip](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-pc-windows-msvc.zip) | 4.5 MiB | `native/win/x64` |
+| [siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz) | 6.5 MiB | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -70,4 +73,4 @@ Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:57:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:17:15Z._

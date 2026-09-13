@@ -33,27 +33,27 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.0` (2026-09-02)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-09-12
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 175 · **Forks**: 15 · **Open issues**: 230 · **Contributors**: 9
+- **Stars**: 177 · **Forks**: 15 · **Open issues**: 230 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 453 · **Open PRs**: 3 · **Closed issues**: 217 · **Open issues**: 13 · **Commits**: 588
+- **Releases**: 44 · **Merged PRs**: 456 · **Open PRs**: 4 · **Closed issues**: 217 · **Open issues**: 13 · **Commits**: 591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 18 | 3 | 4 | 4 | 19 |
-| last60d | 2026-07-14 | 4 | 41 | 3 | 5 | 4 | 41 |
-| 90d | 2026-06-14 | 10 | 147 | 3 | 22 | 12 | 148 |
-| last180d | 2026-03-16 | 16 | 308 | 3 | 102 | 13 | 315 |
-| 360d | 2025-09-17 | 44 | 453 | 3 | 217 | 13 | 570 |
-| last720d | 2024-09-22 | 44 | 453 | 3 | 217 | 13 | 588 |
+| 30d | 2026-08-14 | 2 | 21 | 4 | 4 | 4 | 16 |
+| last60d | 2026-07-15 | 4 | 39 | 4 | 5 | 4 | 34 |
+| 90d | 2026-06-15 | 10 | 150 | 4 | 21 | 12 | 80 |
+| last180d | 2026-03-17 | 15 | 311 | 4 | 101 | 13 | 302 |
+| 360d | 2025-09-18 | 44 | 456 | 4 | 217 | 13 | 573 |
+| last720d | 2024-09-23 | 44 | 456 | 4 | 217 | 13 | 591 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T03:26:24Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T03:32:54Z._

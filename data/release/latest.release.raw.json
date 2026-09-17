@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5158107,
       "digest": "sha256:1fa29e7c93f27d7cb8e30842d16fb32066a5dcc89179a54de18244c90df5073c",
-      "download_count": 29,
+      "download_count": 32,
       "created_at": "2026-09-02T21:18:45Z",
       "updated_at": "2026-09-02T21:18:45Z",
       "browser_download_url": "https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6834190,
       "digest": "sha256:586d35c7bdb4e71bea54927dc5a7e05a7793093c474bdc9036e86b0b9413fc7e",
-      "download_count": 87,
+      "download_count": 91,
       "created_at": "2026-09-02T21:18:45Z",
       "updated_at": "2026-09-02T21:18:46Z",
       "browser_download_url": "https://github.com/johnsideserf/siggy/releases/download/v1.15.0/siggy-v1.15.0-x86_64-unknown-linux-gnu.tar.gz"

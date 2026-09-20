@@ -4,7 +4,7 @@
 
 Terminal-based Signal messenger client with vim keybindings
 
-![siggy](https://repo.x-cmd.io/siggy.svg?lang=zh)
+[![x-cmd/install — siggy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/siggy.svg?lang=zh)](https://x-cmd.com/install/siggy)
 
 ## 安装
 
@@ -33,7 +33,7 @@ x install siggy
 ## 发布
 
 - **最新版本**: `v1.15.0` (2026-09-02)
-- **最近提交**: 2026-09-12
+- **最近提交**: 2026-09-19
 - **Release 含资产**: 4 个
 
 ## 流行度
@@ -42,18 +42,18 @@ x install siggy
 
 ## 累计统计
 
-- **发布数**: 44 · **已合并 PR**: 456 · **开放 PR**: 4 · **已关闭 issue**: 217 · **开放 issue**: 13 · **提交数**: 591
+- **发布数**: 44 · **已合并 PR**: 459 · **开放 PR**: 4 · **已关闭 issue**: 217 · **开放 issue**: 13 · **提交数**: 594
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 16 | 4 | 4 | 1 | 16 |
-| last60d | 2026-07-20 | 3 | 33 | 4 | 5 | 4 | 34 |
-| 90d | 2026-06-20 | 9 | 80 | 4 | 20 | 12 | 80 |
-| last180d | 2026-03-22 | 15 | 297 | 4 | 96 | 13 | 302 |
-| 360d | 2025-09-23 | 44 | 456 | 4 | 217 | 13 | 573 |
-| last720d | 2024-09-28 | 44 | 456 | 4 | 217 | 13 | 591 |
+| 30d | 2026-08-21 | 2 | 19 | 4 | 4 | 1 | 18 |
+| last60d | 2026-07-22 | 3 | 36 | 4 | 5 | 4 | 28 |
+| 90d | 2026-06-22 | 9 | 83 | 4 | 20 | 12 | 80 |
+| last180d | 2026-03-24 | 15 | 297 | 4 | 92 | 13 | 301 |
+| 360d | 2025-09-25 | 44 | 459 | 4 | 217 | 13 | 576 |
+| last720d | 2024-09-30 | 44 | 459 | 4 | 217 | 13 | 594 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ siggy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T03:31:59Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T03:45:10Z._

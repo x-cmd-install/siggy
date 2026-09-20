@@ -4,7 +4,7 @@
 
 Terminal-based Signal messenger client with vim keybindings
 
-![siggy](https://repo.x-cmd.io/siggy.svg)
+[![x-cmd/install — siggy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/siggy.svg)](https://x-cmd.com/install/siggy)
 
 ## Install
 
@@ -33,7 +33,7 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.0` (2026-09-02)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-19
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 456 · **Open PRs**: 4 · **Closed issues**: 217 · **Open issues**: 13 · **Commits**: 591
+- **Releases**: 44 · **Merged PRs**: 459 · **Open PRs**: 4 · **Closed issues**: 217 · **Open issues**: 13 · **Commits**: 594
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 16 | 4 | 4 | 1 | 16 |
-| last60d | 2026-07-20 | 3 | 33 | 4 | 5 | 4 | 34 |
-| 90d | 2026-06-20 | 9 | 80 | 4 | 20 | 12 | 80 |
-| last180d | 2026-03-22 | 15 | 297 | 4 | 96 | 13 | 302 |
-| 360d | 2025-09-23 | 44 | 456 | 4 | 217 | 13 | 573 |
-| last720d | 2024-09-28 | 44 | 456 | 4 | 217 | 13 | 591 |
+| 30d | 2026-08-21 | 2 | 19 | 4 | 4 | 1 | 18 |
+| last60d | 2026-07-22 | 3 | 36 | 4 | 5 | 4 | 28 |
+| 90d | 2026-06-22 | 9 | 83 | 4 | 20 | 12 | 80 |
+| last180d | 2026-03-24 | 15 | 297 | 4 | 92 | 13 | 301 |
+| 360d | 2025-09-25 | 44 | 459 | 4 | 217 | 13 | 576 |
+| last720d | 2024-09-30 | 44 | 459 | 4 | 217 | 13 | 594 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:31:59Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:45:09Z._

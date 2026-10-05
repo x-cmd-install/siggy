@@ -38,7 +38,7 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 182 · **Forks**: 16 · **Open issues**: 230 · **Contributors**: 9
+- **Stars**: 183 · **Forks**: 16 · **Open issues**: 230 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 10 | 3 | 0 | 0 | 8 |
-| last60d | 2026-08-05 | 2 | 27 | 4 | 4 | 4 | 27 |
-| 90d | 2026-07-06 | 6 | 59 | 4 | 8 | 11 | 49 |
-| last180d | 2026-04-07 | 14 | 284 | 4 | 90 | 13 | 286 |
-| 360d | 2025-10-09 | 44 | 461 | 4 | 217 | 13 | 578 |
-| last720d | 2024-10-14 | 44 | 461 | 4 | 217 | 13 | 596 |
+| 30d | 2026-09-05 | 0 | 8 | 1 | 0 | 0 | 8 |
+| last60d | 2026-08-06 | 2 | 27 | 4 | 4 | 4 | 27 |
+| 90d | 2026-07-07 | 6 | 49 | 4 | 6 | 4 | 49 |
+| last180d | 2026-04-08 | 14 | 283 | 4 | 89 | 13 | 286 |
+| 360d | 2025-10-10 | 44 | 461 | 4 | 217 | 13 | 578 |
+| last720d | 2024-10-15 | 44 | 461 | 4 | 217 | 13 | 596 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T04:39:02Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T04:25:29Z._

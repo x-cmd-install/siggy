@@ -33,27 +33,27 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.15.0` (2026-09-02)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-17
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 187 · **Forks**: 16 · **Open issues**: 231 · **Contributors**: 9
+- **Stars**: 189 · **Forks**: 16 · **Open issues**: 231 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 464 · **Open PRs**: 4 · **Closed issues**: 217 · **Open issues**: 14 · **Commits**: 599
+- **Releases**: 44 · **Merged PRs**: 467 · **Open PRs**: 4 · **Closed issues**: 217 · **Open issues**: 14 · **Commits**: 602
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 8 | 0 | 0 | 1 | 8 |
-| last60d | 2026-08-18 | 2 | 25 | 4 | 4 | 5 | 26 |
-| 90d | 2026-07-19 | 3 | 43 | 4 | 5 | 5 | 43 |
-| last180d | 2026-04-20 | 13 | 262 | 4 | 83 | 14 | 265 |
-| 360d | 2025-10-22 | 44 | 464 | 4 | 217 | 14 | 581 |
-| last720d | 2024-10-27 | 44 | 464 | 4 | 217 | 14 | 599 |
+| 30d | 2026-09-18 | 0 | 11 | 0 | 0 | 1 | 8 |
+| last60d | 2026-08-19 | 2 | 27 | 4 | 4 | 2 | 26 |
+| 90d | 2026-07-20 | 3 | 44 | 4 | 5 | 5 | 36 |
+| last180d | 2026-04-21 | 12 | 261 | 4 | 81 | 14 | 224 |
+| 360d | 2025-10-23 | 44 | 467 | 4 | 217 | 14 | 584 |
+| last720d | 2024-10-28 | 44 | 467 | 4 | 217 | 14 | 602 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T03:16:34Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T03:21:05Z._

@@ -48,12 +48,12 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 10 | 0 | 0 | 1 | 10 |
-| last60d | 2026-08-27 | 2 | 29 | 3 | 4 | 2 | 24 |
-| 90d | 2026-07-28 | 2 | 38 | 4 | 4 | 5 | 37 |
-| last180d | 2026-04-29 | 12 | 227 | 4 | 68 | 14 | 227 |
-| 360d | 2025-10-31 | 44 | 470 | 4 | 217 | 14 | 587 |
-| last720d | 2024-11-05 | 44 | 470 | 4 | 217 | 14 | 605 |
+| 30d | 2026-09-27 | 0 | 10 | 0 | 0 | 1 | 10 |
+| last60d | 2026-08-28 | 2 | 29 | 3 | 3 | 2 | 24 |
+| 90d | 2026-07-29 | 2 | 38 | 4 | 4 | 5 | 37 |
+| last180d | 2026-04-30 | 12 | 227 | 4 | 68 | 14 | 227 |
+| 360d | 2025-11-01 | 44 | 470 | 4 | 217 | 14 | 587 |
+| last720d | 2024-11-06 | 44 | 470 | 4 | 217 | 14 | 605 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T03:33:00Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T03:58:41Z._

@@ -38,22 +38,22 @@ Total: **43,890** lines of code across **115** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 191 · **Forks**: 16 · **Open issues**: 231 · **Contributors**: 9
+- **Stars**: 191 · **Forks**: 16 · **Open issues**: 232 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 472 · **Open PRs**: 5 · **Closed issues**: 217 · **Open issues**: 14 · **Commits**: 607
+- **Releases**: 44 · **Merged PRs**: 472 · **Open PRs**: 5 · **Closed issues**: 217 · **Open issues**: 15 · **Commits**: 607
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 11 | 1 | 0 | 1 | 11 |
-| last60d | 2026-09-04 | 0 | 21 | 4 | 0 | 1 | 19 |
-| 90d | 2026-08-05 | 2 | 38 | 5 | 4 | 5 | 38 |
-| last180d | 2026-05-07 | 12 | 225 | 5 | 67 | 14 | 222 |
-| 360d | 2025-11-08 | 44 | 472 | 5 | 217 | 14 | 589 |
-| last720d | 2024-11-13 | 44 | 472 | 5 | 217 | 14 | 607 |
+| 30d | 2026-10-05 | 0 | 11 | 1 | 0 | 2 | 11 |
+| last60d | 2026-09-05 | 0 | 19 | 2 | 0 | 2 | 19 |
+| 90d | 2026-08-06 | 2 | 38 | 5 | 4 | 6 | 38 |
+| last180d | 2026-05-08 | 12 | 225 | 5 | 67 | 15 | 222 |
+| 360d | 2025-11-09 | 44 | 472 | 5 | 217 | 15 | 589 |
+| last720d | 2024-11-14 | 44 | 472 | 5 | 217 | 15 | 607 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for siggy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T05:37:32Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T05:06:19Z._
